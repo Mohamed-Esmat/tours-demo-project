@@ -78,10 +78,7 @@ The design for this project can be found on Figma. You can view it [here](https:
 |   |   |-- Tours.jsx
 |   |   |-- Tour.jsx
 |   |   |-- Loading.jsx
-|   |-- data
-|   |   |-- toursData.js
-|-- public
-|   |-- index.html
+|-- index.html
 |-- README.md
 ```
 
