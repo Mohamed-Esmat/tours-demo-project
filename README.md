@@ -22,7 +22,7 @@ This project is a simple demonstration of building a frontend application using 
 
 ## Demo
 
-You can check out the live demo of the project [here](https://link-to-your-live-demo).
+You can check out the live demo of the project [here](https://tours-demo-esmat.netlify.app/).
 
 ![Tours Demo](https://res.cloudinary.com/tawfeer/image/upload/v1689939886/Tours-projectpng_w7maqu.png)
 
@@ -40,7 +40,7 @@ You can check out the live demo of the project [here](https://link-to-your-live-
 1. Clone the repository:
 
 ```
-git clone https://github.com/your-username/tours-demo.git
+git clone https://github.com/Mohamed-Esmat/tours-demo-project.git
 cd tours-demo
 ```
 
